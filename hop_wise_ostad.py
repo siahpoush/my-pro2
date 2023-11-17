@@ -16,3 +16,4 @@ for number in range(101):print( " hop-weez" if not  number % 15 else " hop" if n
 for number in range(101):                                 
   print(" hop-weez" if number in range (15, 101, 15) else " hop" if number in range( 3, 101,3) else" weez"  if number in range(5 , 101,5) else str(number))
 print('salam')
+print('='*40)
