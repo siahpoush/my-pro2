@@ -1,4 +1,3 @@
-node _modules/
+
 *.txt
 !a.txt
-test/
